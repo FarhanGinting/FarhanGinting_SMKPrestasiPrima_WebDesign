@@ -14,7 +14,6 @@ Selamat datang di repository FarhanGinting_SMKPrestasiPrima_WebDesign! Proyek in
 - **Mengingat Perjuangan Pahlawan**: Menghormati jasa para pahlawan kemerdekaan Indonesia dengan menampilkan elemen desain yang menggambarkan keberanian, pengorbanan, dan semangat juang mereka.
 - **Mengedukasi Generasi Muda**: Mendidik generasi muda tentang pentingnya sejarah dan perjuangan kemerdekaan melalui media desain web yang menarik dan informatif.
 
-
 ## 🚀 Memulai
 
 1. **Clone Repository**: `git clone https://github.com/yourusername/FarhanGinting_SMKPrestasiPrima_WebDesign.git`
@@ -30,13 +29,10 @@ Selamat datang di repository FarhanGinting_SMKPrestasiPrima_WebDesign! Proyek in
 
 ## 🌐 Demo Langsung
 
-Lihat demo langsung dari proyek ini [di sini](#https://farhanginting.github.io/FarhanGinting_SMKPrestasiPrima_WebDesign/).
+Lihat demo langsung dari proyek ini [di sini](https://farhanginting.github.io/FarhanGinting_SMKPrestasiPrima_WebDesign/).
 
 ## 📞 Kontak
 
-Jangan ragu untuk menghubungi jika Anda memiliki pertanyaan atau saran. Terhubung dengan saya di [LinkedIn](#https://www.linkedin.com/in/farhan-ginting?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [WhatsApp](#https://wa.me/085794413252) atau email saya di farhantriputrawisnu@gmail.com
+Jangan ragu untuk menghubungi jika Anda memiliki pertanyaan atau saran. Terhubung dengan saya di [LinkedIn](https://www.linkedin.com/in/farhan-ginting), [WhatsApp](https://wa.me/085794413252), atau email saya di farhantriputrawisnu@gmail.com
 
 ---
-
-
-
