@@ -456,10 +456,10 @@ h6 {
   
   @media (max-width: 576px) {
     .banner {
-      height: 10vh;
+      height: 20vh;
     }
     .dasarFoto {
-      height: 8vh;
+      height: 11vh;
     }
     .bungkus-lomba {
       display: none;
